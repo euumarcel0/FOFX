@@ -3,16 +3,15 @@
 <head>
 </head>
 <body>
- 
 <table>
   <tr>
     <td align="center">
       <h2>Virtualização</h2>
       <a href="https://www.virtualbox.org/">
-        <img align="center" alt="Virtual Box" height="100" width="100" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" />
+        <img align="center" alt="Virtual Box" height="70" width="70" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" />
       </a>
       <a href="https://www.vmware.com">
-        <img align="center" alt="VMWare" height="100" width="100" src="https://vectorwiki.com/images/WP5h6__vmware.svg" />
+        <img align="center" alt="VMWare" height="70" width="130" src="https://vectorwiki.com/images/WP5h6__vmware.svg" />
       </a>
       <br>
       <br><br>
@@ -20,7 +19,7 @@
       <img src="https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge">
-      <br>
+     <br>
       <img src="https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge">
@@ -41,6 +40,77 @@
       <br>
       <img src="https://img.shields.io/badge/Configuração-CA0100?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/Simulação de Ambientes-CA0100?logoColor=white&style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>Hardware & Redes</h2>
+      <a href="https://google.com">
+        <img align="center" alt="Cisco" height="66" width="70" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" />
+      </a>
+      <a href="https://google.com">
+        <img align="center" alt="Dell" height="66" width="70" src="https://www.vectorlogo.zone/logos/dell/dell-icon.svg" />
+      </a>
+      <br>
+      <br><br>
+      <img src="https://img.shields.io/badge/Switching-6BA1EB?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/WiFi-6BA1EB?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Infraestrutura-6BA1EB?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Cabeamento-6BA1EB?logoColor=black&style=for-the-badge">
+      <br>
+      <img src="https://img.shields.io/badge/Modelos_OSI_&_TCP/IP-4671BC?logoColor=white&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Server_físico-4671BC?logoColor=white&style=for-the-badge">
+    </td>
+    <td align="center">
+      <h2>Programação</h2>
+      <a href="#">
+        <img align="center" alt="GitHub" height="101" width="100" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+      </a>
+      <a href="#">
+        <img align="center" alt="Python" height="101" width="80" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+      </a>
+      <br>
+      <br><br>
+      <img src="https://img.shields.io/badge/Lógica_de_Programação-F3D485?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Funções-F3D485?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/GitHub-F3D485?logoColor=black&style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>IoT</h2>
+      <a>
+        <img align="center" alt="Arduino" height="80" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
+      </a>
+      <br>
+      <br><br>
+     <img src="https://img.shields.io/badge/Fundamentos-79A2AE?logoColor=black&style=for-the-badge">
+     <img src="https://img.shields.io/badge/Configuração-79A2AE?logoColor=black&style=for-the-badge">
+     <img src="https://img.shields.io/badge/Programação-79A2AE?logoColor=black&style=for-the-badge">
+     <br>
+     <img src="https://img.shields.io/badge/Bibliotecas-45818E?logoColor=white&style=for-the-badge">
+     <img src="https://img.shields.io/badge/Projetos_práticos-45818E?logoColor=white&style=for-the-badge">
+    </td>
+    <td align="center">
+      <h2>Soft Skills</h2>
+      <a>
+        <img align="center" alt="Danilo Sibov" height="120" width="120" src="https://thumbs2.imgbox.com/a0/e6/zXDujcqn_t.png"/>
+      </a>
+      <a>
+        <img align="center" alt="Roberto Possarle" height="120" width="120" src="https://thumbs2.imgbox.com/ed/07/Sy34sx4D_t.png"/>
+      </a>
+      <br>
+      <br><br>
+      <img src="https://img.shields.io/badge/Trabalho_em_equipe-C07A9E?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Técnicas_de_Apresentação-C07A9E?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Programação-C07A9E?logoColor=black&style=for-the-badge">
+     <br>
+      <img src="https://img.shields.io/badge/Email-A54E79?logoColor=white&style=for-the-badge">
+      <img src="https://img.shields.io/badge/LinkedIn-A54E79?logoColor=white&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Currículo_profissional-A54E79?logoColor=white&style=for-the-badge">
+     <br>
+      <img src="https://img.shields.io/badge/Relatório_técnico-C17BA0?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Documentação-C17BA0?logoColor=black&style=for-the-badge">
     </td>
   </tr>
 </table>
