@@ -1,7 +1,7 @@
 # 1º Semestre
 Introdução à redes, hardware, virtualização e programação.
 <br>
-  <div display= "flex" flex-direction="row">
+<div display= "flex" flex-direction="row">
 <div align="center">
   <h2>Sistemas Operacionais</h2>
 
