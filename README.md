@@ -1,6 +1,7 @@
 # 1º Semestre
 Introdução à redes, hardware, virtualização e programação.
 <br>
+  <div display= "flex" flex-direction="row">
 <div align="center">
   <h2>Sistemas Operacionais</h2>
 
@@ -41,6 +42,7 @@ Introdução à redes, hardware, virtualização e programação.
   ![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)
 </div>
+  </div>
 <br>
 <div align="center">
   <h2>Hardware & Redes</h2>
