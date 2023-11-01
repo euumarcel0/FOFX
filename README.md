@@ -35,14 +35,12 @@
       </a>
       <br>
       <br><br>
+      <img src="https://img.shields.io/badge/Bare Metal-E06661?logoColor=white&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Baseado em SO-E06661?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/Instalação-E06661?logoColor=white&style=for-the-badge">
-      <img src="https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge">
-      <img src="https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge">
-      <img src="https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge">
       <br>
-      <img src="https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge">
-      <img src="https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge">
-      <img src="https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Configuração-CA0100?logoColor=white&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Simulação de Ambientes-CA0100?logoColor=white&style=for-the-badge">
     </td>
   </tr>
 </table>
