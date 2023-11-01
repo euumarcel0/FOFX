@@ -103,7 +103,7 @@
       <br><br>
       <img src="https://img.shields.io/badge/Trabalho_em_equipe-C07A9E?logoColor=black&style=for-the-badge">
       <img src="https://img.shields.io/badge/Técnicas_de_Apresentação-C07A9E?logoColor=black&style=for-the-badge">
-      <img src="https://img.shields.io/badge/Programação-C07A9E?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Lógica de Programação-C07A9E?logoColor=black&style=for-the-badge">
      <br>
       <img src="https://img.shields.io/badge/Email-A54E79?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/LinkedIn-A54E79?logoColor=white&style=for-the-badge">
