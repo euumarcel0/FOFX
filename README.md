@@ -1,8 +1,3 @@
-<style>
-  a img {
-    text-decoration: none;
-  }
-</style>
 <div align="center">
   <h2>Virtualização</h2>
 
