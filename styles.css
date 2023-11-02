@@ -1,11 +1,1 @@
-@media (max-width: 768px) {
-  /* Estilos para telas menores, como smartphones */
-}
-
-@media (min-width: 769px) and (max-width: 1024px) {
-  /* Estilos para telas de tamanho médio, como tablets */
-}
-
-@media (min-width: 1025px) {
-  /* Estilos para telas maiores, como desktops */
-}
+<span style="font-family: 'Arial', sans-serif;">Este é um texto com a fonte Arial.</span>
