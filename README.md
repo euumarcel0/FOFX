@@ -9,7 +9,7 @@
 <body>
 <table>
   <tr>
-    <td align="center">
+    <td align="center" class="ocultar-links">
       <h2>Virtualização</h2>
       <a href="https://www.virtualbox.org/">
         <img align="center" alt="Virtual Box" height="70" width="70" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" />
