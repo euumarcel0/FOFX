@@ -3,7 +3,7 @@
 <head>
   <link rel="stylesheet" type="text/css" href="styles.css">
   <div style="max-width: 100%; padding: 0 20px;">
-<h1>1º Semestre</h1>
+<h1>⁝ 1º Semestre</h1>
 <h2>Introdução a Redes, Hardware, Virtualização e Programação</h2>
 <body>
 <table>
@@ -67,10 +67,10 @@
     <td align="center">
       <h2>Programação</h2>
       <a href="#">
-        <img align="center" alt="GitHub" height="101" width="100" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+        <img align="center" alt="GitHub" height="68" width="68" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
       </a>
       <a href="#">
-        <img align="center" alt="Python" height="101" width="80" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+        <img align="center" alt="Python" height="68" width="68" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
       </a>
       <br>
       <br><br>
@@ -88,6 +88,7 @@
       <h2>Programação & IoT</h2>
       <a>
         <img align="center" alt="Arduino" height="78" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
+        ㅤ
         <img align="center" alt="C++" height="78" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
       </a>
       <br>
@@ -112,7 +113,7 @@
       <br>
       <br><br>
       <img src="https://img.shields.io/badge/Trabalho_em_equipe-C07A9E?logoColor=black&style=for-the-badge">
-      <img src="https://img.shields.io/badge/Técnicas_de_Apresentação-C07A9E?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Técnica de Apresentação-C07A9E?logoColor=black&style=for-the-badge">
      <br>
       <img src="https://img.shields.io/badge/Email-A54E79?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/LinkedIn-A54E79?logoColor=white&style=for-the-badge">
@@ -126,7 +127,6 @@
 </body>
 </html>
     <table>
-</div>
 <a>
 <h2 style="font-family: 'Bodoni', sans-serif;">ㅤㅤTécnico Em Redes De Computadores ㅤ▷ㅤㅤㅤ
   <img align="center" alt="SENAI" height="70" width="250" src="https://alu-cek.com.br/web/wp-content/uploads/2016/09/logo-senai.fw_-400x103.png" alt="Logo do SENAI">
