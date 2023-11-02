@@ -1,54 +1,5 @@
-.hidden-link {
-  text-decoration: none;
-  display: block;
-  width: 100%;
-  height: 100%;
-}
+<link rel="stylesheet" href=".github/github.css">
 
-.hidden-link img {
-  display: block;
-}
-
-.hidden-link:hover img {
-  opacity: 0.5; /* Define a opacidade da imagem quando o mouse está sobre ela */
-}
-
-.hidden-link:hover::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.hidden-link {
-  text-decoration: none;
-  display: block;
-  width: 100%;
-  height: 100%;
-}
-
-.hidden-link img {
-  display: block;
-}
-
-.hidden-link:hover img {
-  opacity: 0.5; /* Define a opacidade da imagem quando o mouse está sobre ela */
-}
-
-.hidden-link:hover::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
 </head>
 <body>
 <div style="max-width:100%; padding:0px;">
