@@ -9,9 +9,9 @@
 <body>
 <table>
   <tr>
-    <td align="center" class="ocultar-links">
+    <td align="center" >
       <h2>Virtualização</h2>
-      <a href="https://www.virtualbox.org/">
+      <a href="https://www.virtualbox.org">
         <img align="center" alt="Virtual Box" height="70" width="70" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" />
       </a>
       <a href="https://www.vmware.com">
