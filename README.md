@@ -1,19 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    h1, h2 {
-      text-align: center;
-    }
-    @media (max-width: 768px) {
-      h1 {
-        font-size: 20px;
-      }
-      h2 {
-        font-size: 16px;
-      }
-    }
-  </style>
 </head>
 <body>
   <div style="max-width: 100%; padding: 0 20px;">
@@ -101,20 +88,21 @@
     <td align="center">
       <h2>Programação & IoT</h2>
       <a>
-        <img align="center" alt="Arduino" height="78" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
+        <img align="center" alt="Arduino" height="77" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
         ㅤ
-        <img align="center" alt="C++" height="78" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
+        <img align="center" alt="C++" height="77" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
       </a>
       <br>
       <br><br>
      <img src="https://img.shields.io/badge/Fundamentos-79A2AE?logoColor=black&style=for-the-badge">
      <img src="https://img.shields.io/badge/Lógica de Programação-79A2AE?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Bibliotecas-79A2AE?logoColor=black&style=for-the-badge">
       <br>
-     <img src="https://img.shields.io/badge/Bibliotecas-79A2AE?logoColor=black&style=for-the-badge">
       <img src="https://img.shields.io/badge/Projetos Práticos-45818E?logoColor=white&style=for-the-badge">
-     <br>
      <img src="https://img.shields.io/badge/VS Code-45818E?logoColor=white&style=for-the-badge">
      <img src="https://img.shields.io/badge/Funçoes-45818E?logoColor=white&style=for-the-badge">
+      <br>
+      <img src="https://img.shields.io/badge/Variáveis-45818E?logoColor=white&style=for-the-badge">
     </td>
     <td align="center">
       <h2>Soft Skills</h2>
