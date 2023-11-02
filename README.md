@@ -125,3 +125,10 @@
 </body>
 </html>
 </div>
+<style>
+  /* Estilos para tornar o conteúdo responsivo */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
