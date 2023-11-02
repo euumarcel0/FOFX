@@ -1,3 +1,5 @@
+<div style="max-width: 100%; padding: 0 20px;">
+  <!-- Seu conteúdo do README aqui -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -122,3 +124,4 @@
 </table>
 </body>
 </html>
+</div>
