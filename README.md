@@ -1,7 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
+  <style>
+    h1, h2 {
+      text-align: center;
+    }
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 20px;
+      }
+      h2 {
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
   <div style="max-width: 100%; padding: 0 20px;">
 <h1>⁝ 1º Semestre</h1>
 <h2>Introdução a Redes, Hardware, Virtualização e Programação</h2>
