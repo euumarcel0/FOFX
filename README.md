@@ -1,9 +1,10 @@
-<div style="max-width: 100%; padding: 0 20px;">
-  <!-- Seu conteúdo do README aqui -->
 <!DOCTYPE html>
 <html>
 <head>
-</head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <div style="max-width: 100%; padding: 0 20px;">
+<h1>1º Semestre</h1>
+<h2>Introdução a Redes, Hardware, Virtualização e Programação</h2>
 <body>
 <table>
   <tr>
@@ -124,4 +125,11 @@
 </table>
 </body>
 </html>
+    <table>
 </div>
+<a>
+<h2 style="font-family: 'Bodoni', sans-serif;">ㅤㅤTécnico Em Redes De Computadores ㅤ▷ㅤㅤㅤ
+  <img align="center" alt="SENAI" height="70" width="250" src="https://alu-cek.com.br/web/wp-content/uploads/2016/09/logo-senai.fw_-400x103.png" alt="Logo do SENAI">
+</h2>
+</a>
+</table>
