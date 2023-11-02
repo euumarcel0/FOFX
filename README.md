@@ -74,36 +74,42 @@
       <img src="https://img.shields.io/badge/Lógica_de_Programação-F3D485?logoColor=black&style=for-the-badge">
       <img src="https://img.shields.io/badge/Funções-F3D485?logoColor=black&style=for-the-badge">
       <img src="https://img.shields.io/badge/GitHub-F3D485?logoColor=black&style=for-the-badge">
+      <br>
+      <img src="https://img.shields.io/badge/Python-F3D485?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/VS Code-F3D485?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Função-F3D485?logoColor=black&style=for-the-badge">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h2>IoT</h2>
+      <h2>Programação & IoT</h2>
       <a>
-        <img align="center" alt="Arduino" height="80" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
+        <img align="center" alt="Arduino" height="78" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
+        <img align="center" alt="C++" height="78" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
       </a>
       <br>
       <br><br>
      <img src="https://img.shields.io/badge/Fundamentos-79A2AE?logoColor=black&style=for-the-badge">
-     <img src="https://img.shields.io/badge/Configuração-79A2AE?logoColor=black&style=for-the-badge">
-     <img src="https://img.shields.io/badge/Programação-79A2AE?logoColor=black&style=for-the-badge">
+     <img src="https://img.shields.io/badge/Lógica de Programação-79A2AE?logoColor=black&style=for-the-badge">
+      <br>
+     <img src="https://img.shields.io/badge/Bibliotecas-79A2AE?logoColor=black&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Projetos Práticos-45818E?logoColor=white&style=for-the-badge">
      <br>
-     <img src="https://img.shields.io/badge/Bibliotecas-45818E?logoColor=white&style=for-the-badge">
-     <img src="https://img.shields.io/badge/Projetos_práticos-45818E?logoColor=white&style=for-the-badge">
+     <img src="https://img.shields.io/badge/VS Code-45818E?logoColor=white&style=for-the-badge">
+     <img src="https://img.shields.io/badge/Funçoes-45818E?logoColor=white&style=for-the-badge">
     </td>
     <td align="center">
       <h2>Soft Skills</h2>
       <a>
-        <img align="center" alt="Danilo Sibov" height="120" width="120" src="https://thumbs2.imgbox.com/a0/e6/zXDujcqn_t.png"/>
+        <img align="center" alt="Danilo Sibov" height="80" width="80" src="https://i.ibb.co/WsctYM7/z-XDujcqn-t-removebg-preview.png" style="border-radius: 50%;">
       </a>
       <a>
-        <img align="center" alt="Roberto Possarle" height="120" width="120" src="https://thumbs2.imgbox.com/ed/07/Sy34sx4D_t.png"/>
+          <img align="center" alt="Roberto Possarle" height="80" width="80" src="https://i.ibb.co/PGsPNbz/Sy34sx4-D-t-removebg-preview-1.png" style="border-radius: 50%;">
       </a>
       <br>
       <br><br>
       <img src="https://img.shields.io/badge/Trabalho_em_equipe-C07A9E?logoColor=black&style=for-the-badge">
       <img src="https://img.shields.io/badge/Técnicas_de_Apresentação-C07A9E?logoColor=black&style=for-the-badge">
-      <img src="https://img.shields.io/badge/Lógica de Programação-C07A9E?logoColor=black&style=for-the-badge">
      <br>
       <img src="https://img.shields.io/badge/Email-A54E79?logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/LinkedIn-A54E79?logoColor=white&style=for-the-badge">
