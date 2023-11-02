@@ -1,6 +1,5 @@
 <div style="max-width: 100%; padding: 0 20px;">
   <!-- Seu conteúdo do README aqui -->
-<style>
 <!DOCTYPE html>
 <html>
 <head>
@@ -126,8 +125,3 @@
 </body>
 </html>
 </div>
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
