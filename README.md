@@ -130,8 +130,10 @@
 </html>
     <table>
 <a>
-<h2 style="font-family: 'Bodoni', sans-serif;">ㅤㅤTécnico Em Redes De Computadores ㅤ▷ㅤㅤㅤ
-  <img align="center" alt="SENAI" height="70" width="250" src="https://alu-cek.com.br/web/wp-content/uploads/2016/09/logo-senai.fw_-400x103.png" alt="Logo do SENAI">
+<h2 style="font-family: 'Bodoni', sans-serif;">Técnico Em Redes De Computadores ㅤ
+  <a href="https://github.com/euumarcel0/FOFX/blob/main/README.md">
+  <img align="center" alt="SENAI" height="40" width="40" src="https://icon-library.com/images/white-play-icon/white-play-icon-13.jpg"/>ㅤ
+  <img align="center" alt="SENAI" height="45" width="300" src="https://oamengenharia.com.br/wp-content/uploads/2018/09/Logo-SENAI.png" />
 </h2>
 </a>
 </table>
