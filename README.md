@@ -130,9 +130,9 @@
 </html>
     <table>
 <a>
-<h2 style="font-family: 'Bodoni', sans-serif;">Técnico Em Redes De Computadores ㅤ
+<h2 style="font-family: 'Bodoni', sans-serif;">ㅤTécnico Em Redes De Computadores ㅤ
   <a href="https://github.com/euumarcel0/FOFX/blob/main/2readme.md">
-  <img align="center" alt="SENAI" height="40" width="40" src="https://icon-library.com/images/white-play-icon/white-play-icon-13.jpg"/>ㅤ
+  <img align="center" alt="SENAI" height="40" width="40" src="https://icon-library.com/images/white-play-icon/white-play-icon-13.jpg"/>ㅤㅤ
   <img align="center" alt="SENAI" height="45" width="300" src="https://oamengenharia.com.br/wp-content/uploads/2018/09/Logo-SENAI.png" />
 </h2>
 </a>
