@@ -12,7 +12,8 @@
     <td align="center" >
       <h2>Linux</h2>
       <a href="https://google.com">
-        <img align="center" alt="Linux" height="100" width="100" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" />
+        <img align="center" alt="Linux" height="70" width="70" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" />
+        <img align="center" alt="Linux" height="70" width="70" src="https://seeklogo.com/images/K/kali-linux-logo-0EB0B3A81B-seeklogo.com.png" />
       </a>
       <br>
       <br><br>
@@ -28,7 +29,7 @@
     <td align="center">
       <h2>Windows</h2>
       <a href="https://google.com">
-        <img align="center" alt="Windows" height="100" width="150" src="https://i.ibb.co/ng4pR7s/Feature-Content-3-column-500x280-windows-server-removebg-preview.png alt="Ubuntu">
+        <img align="center" alt="Windows" height="70" width="140" src="https://logosmarcas.net/wp-content/uploads/2021/02/Windows-New-Logo.png">
       </a>
       <br>
       <br><br>
@@ -45,7 +46,7 @@
     <td align="center">
       <h2>Switching</h2>
       <a href="https://google.com">
-        <img align="center" alt="Cisco" height="100" width="150" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" />
+        <img align="center" alt="Cisco" height="85" width="140" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" />
       </a>
       <br>
       <br><br>
@@ -62,7 +63,7 @@
       <h2>Routing</h2>
       <a href="#">
        <a href="https://google.com">
-        <img align="center" alt="Cisco" height="100" width="150" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" />
+        <img align="center" alt="Cisco" height="85" width="140" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" />
       </a>
       <br>
       <br><br>
@@ -83,10 +84,10 @@
     <td align="center">
       <h2>Segurança</h2>
       <a>
-        <img align="center" alt="PFsense" height="50" width="100" src="https://yata-apix-cfcb854a-2a9d-4864-a876-b72335cc79be.s3-object.locaweb.com.br/933660f14a0848fda1cfe3fa23b073fd.png"/>
-        ㅤ
-        <img align="center" alt="C++" height="20" width="100" src="https://www.netfilter.org/images/netfilter-logo3.png"/>
-        <img align="center" alt="C++" height="35" width="35" src="https://suricata.io/wp-content/uploads/2021/01/Logo-FINAL_Vertical_Color_Whitetext.png" />
+        <img align="center" alt="C++" height="80" width="120" src="https://lucasvidelaine.files.wordpress.com/2020/07/iptables.png"/>
+        <img align="center" alt="PFsense" height="50" width="50" src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png"/>
+        <img align="center" alt="C++" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1816/1816090.png" />
+        <img align="center" alt="C++" height="80" width="80" src="https://workshop.netfilter.org/2023/suricata_rgb-4.png" />
       </a>
       <br>
       <br><br>
@@ -128,8 +129,11 @@
 </html>
     <table>
 <a>
-<h2 style="font-family: 'Bodoni', sans-serif;">Técnico Em Redes De Computadores ㅤ▷ㅤㅤㅤ
-  <img align="center" alt="SENAI" height="70" width="250" src="https://alu-cek.com.br/web/wp-content/uploads/2016/09/logo-senai.fw_-400x103.png" alt="Logo do SENAI">
+<h2 style="font-family: 'Bodoni', sans-serif;">Técnico Em Redes De Computadores 
+  <a href="https://google.com">
+  <img align="center" alt="SENAI" height="40" width="40" src="https://icon-library.com/images/white-play-icon/white-play-icon-13.jpg"/>
+  
+  <img align="center" alt="SENAI" height="45" width="300" src="https://oamengenharia.com.br/wp-content/uploads/2018/09/Logo-SENAI.png" />
 </h2>
 </a>
 </table>
