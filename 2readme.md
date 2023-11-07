@@ -84,10 +84,10 @@
     <td align="center">
       <h2>Segurança</h2>
       <a>
-        <img align="center" alt="C++" height="80" width="120" src="https://lucasvidelaine.files.wordpress.com/2020/07/iptables.png"/>
-        <img align="center" alt="PFsense" height="50" width="50" src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png"/>
-        <img align="center" alt="C++" height="50" width="50" src="https://iili.io/JqpqlLJ.png" />
-        <img align="center" alt="C++" height="80" width="80" src="https://workshop.netfilter.org/2023/suricata_rgb-4.png" />
+        <img align="center" alt="Iptables" height="70" width="120" src="https://lucasvidelaine.files.wordpress.com/2020/07/iptables.png"/>
+        <img align="center" alt="PFsense" height="50" width="50" src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png"/>ㅤ
+        <img align="center" alt="C++" height="50" width="50" src="https://iili.io/JqpBuCG.png" />
+        <img align="center" alt="Suricata" height="70" width="80" src="https://workshop.netfilter.org/2023/suricata_rgb-4.png" />
       </a>
       <br>
       <br><br>
@@ -105,11 +105,12 @@
     <td align="center">
       <h2>Automação</h2>
       <a>
-        <img align="center" alt="Zabbix" height="50" width="80" src="https://www.unirede.net/wp-content/uploads/2016/08/zabbix-logo-produtos.png" style="border-radius: 50%;">
+        <img align="center" alt="Zabbix" height="70" width="110" src="https://www.unirede.net/wp-content/uploads/2016/08/zabbix-logo-produtos.png" style="border-radius: 50%;">
       </a>
       <a>
-          <img align="center" alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="border-radius: 50%;">         
-        <img align="center" alt="Python" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="border-radius: 50%;">
+        <img align="center" alt="Git" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="border-radius: 50%;">     
+        <img align="center" alt="Ansible" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" style="border-radius: 50%;">
+        <img align="center" alt="Python" height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="border-radius: 50%;">
      </a>
       <br>
       <br><br>
