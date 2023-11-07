@@ -104,7 +104,6 @@
     </td>
     <td align="center">
       <h2>Soft Skills</h2>
-      <a>
         <a href="https://www.linkedin.com/in/daniloluciano/">
         <img align="center" alt="Danilo Sibov" height="73" width="73" src="https://i.ibb.co/WsctYM7/z-XDujcqn-t-removebg-preview.png" style="border-radius: 50%;">
       </a>
