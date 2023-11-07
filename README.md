@@ -112,7 +112,8 @@
         <img align="center" alt="Danilo Sibov" height="73" width="73" src="https://i.ibb.co/WsctYM7/z-XDujcqn-t-removebg-preview.png" style="border-radius: 50%;">
       </a>
       <a>
-          <img align="center" alt="Roberto Possarle" height="73" width="73" src="https://i.ibb.co/PGsPNbz/Sy34sx4-D-t-removebg-preview-1.png" style="border-radius: 50%;">
+        <a href="https://www.linkedin.com/in/roberto-possarle/">
+        <img align="center" alt="Roberto Possarle" height="73" width="73" src="https://i.ibb.co/PGsPNbz/Sy34sx4-D-t-removebg-preview-1.png" style="border-radius: 50%;">
       </a>
       <br>
       <br><br>
