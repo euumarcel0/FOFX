@@ -88,9 +88,10 @@
     <td align="center">
       <h2>Programação & IoT</h2>
       <a>
-        <img align="center" alt="Arduino" height="77" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
+        <img align="center" alt="Arduino" height="68" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
         ㅤ
-        <img align="center" alt="C++" height="77" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
+        <img align="center" alt="C++" height="68" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
+        ㅤ
       </a>
       <br>
       <br><br>
@@ -107,10 +108,11 @@
     <td align="center">
       <h2>Soft Skills</h2>
       <a>
-        <img align="center" alt="Danilo Sibov" height="80" width="80" src="https://i.ibb.co/WsctYM7/z-XDujcqn-t-removebg-preview.png" style="border-radius: 50%;">
+        <a href="https://www.linkedin.com/in/daniloluciano/">
+        <img align="center" alt="Danilo Sibov" height="73" width="73" src="https://i.ibb.co/WsctYM7/z-XDujcqn-t-removebg-preview.png" style="border-radius: 50%;">
       </a>
       <a>
-          <img align="center" alt="Roberto Possarle" height="80" width="80" src="https://i.ibb.co/PGsPNbz/Sy34sx4-D-t-removebg-preview-1.png" style="border-radius: 50%;">
+          <img align="center" alt="Roberto Possarle" height="73" width="73" src="https://i.ibb.co/PGsPNbz/Sy34sx4-D-t-removebg-preview-1.png" style="border-radius: 50%;">
       </a>
       <br>
       <br><br>
