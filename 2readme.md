@@ -63,7 +63,7 @@
       <h2>Routing</h2>
       <a href="#">
        <a>
-        <img align="center" alt="Cisco" height="85" width="140" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" />
+        <img align="center" alt="EVE-NG" height="85" width="200" src="https://www.eve-ng.net/wp-content/uploads/2019/11/Logo_EVE_Color-1-e1573260071537.png" />
       </a>
       <br>
       <br><br>
