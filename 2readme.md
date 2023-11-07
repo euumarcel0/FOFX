@@ -11,7 +11,7 @@
   <tr>
     <td align="center" >
       <h2>Linux</h2>
-      <a href="https://google.com">
+      <a>
         <img align="center" alt="Linux" height="70" width="70" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" />
         <img align="center" alt="Linux" height="70" width="70" src="https://seeklogo.com/images/K/kali-linux-logo-0EB0B3A81B-seeklogo.com.png" />
       </a>
@@ -28,7 +28,7 @@
     </td>
     <td align="center">
       <h2>Windows</h2>
-      <a href="https://google.com">
+      <a>
         <img align="center" alt="Windows" height="70" width="140" src="https://logosmarcas.net/wp-content/uploads/2021/02/Windows-New-Logo.png">
       </a>
       <br>
@@ -45,7 +45,7 @@
   <tr>
     <td align="center">
       <h2>Switching</h2>
-      <a href="https://google.com">
+      <a>
         <img align="center" alt="Cisco" height="85" width="140" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" />
       </a>
       <br>
@@ -62,7 +62,7 @@
     <td align="center">
       <h2>Routing</h2>
       <a href="#">
-       <a href="https://google.com">
+       <a>
         <img align="center" alt="Cisco" height="85" width="140" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" />
       </a>
       <br>
@@ -86,7 +86,7 @@
       <a>
         <img align="center" alt="C++" height="80" width="120" src="https://lucasvidelaine.files.wordpress.com/2020/07/iptables.png"/>
         <img align="center" alt="PFsense" height="50" width="50" src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png"/>
-        <img align="center" alt="C++" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1816/1816090.png" />
+        <img align="center" alt="C++" height="50" width="50" src="https://iili.io/JqpqlLJ.png" />
         <img align="center" alt="C++" height="80" width="80" src="https://workshop.netfilter.org/2023/suricata_rgb-4.png" />
       </a>
       <br>
